@@ -1,6 +1,6 @@
 <p align="center"><a href="https://brewbuddy.dev/" target="_blank"><img src="https://i.ibb.co/CWh7J5Y/brew-buddy-logo-sm.png" alt="Brew Buddy logo"></a></p>
 
-# Brew Buddy - Fake Beer API Service.
+# Brew Buddy - Fake Beer API Service
 
 > All data provided by Brew Buddy, including names, descriptions, technical specifications, and other beer-related information, is purely fictional and/or randomly generated. No information should be considered reliable or accurate. The purpose of Brew Buddy is to provide developers with a pre-built beer database to use for creating applications or any other projects.
 
