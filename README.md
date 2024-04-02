@@ -1,4 +1,4 @@
-<p align="center"><a href="https://brewbuddy.dev/" target="_blank"><img src="https://i.ibb.co/ky7nGpc/brew-buddy-logo.png" width="400" height="400" alt="Brew Buddy logo"></a></p>
+<p align="center"><a href="https://brewbuddy.dev/" target="_blank"><img src="https://i.ibb.co/CWh7J5Y/brew-buddy-logo-sm.png" alt="Brew Buddy logo"></a></p>
 
 # Brew Buddy - Fake Beer API Service.
 
